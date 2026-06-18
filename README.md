@@ -7,11 +7,11 @@ Devido à estratégia de prototipagem em módulos independentes para garantir al
 
 * **[🔒 Módulo de Autenticação]** ([Link para o Vercel do Login](https://fluxo-do-saber.vercel.app/))
 * **[🏠 Módulo de Descoberta (Home)]** ([Link para o Vercel da Home](https://v0-tela-home.vercel.app/))
-* **[🔔 Módulo de Notificações]** ([Link para o Vercel das Notificações](https://marketplace-notificacoes.vercel.app/))
+* **[💵 Módulo de Compra]** ([Link para o Vercel do Perfil](https://checkout-e-chat.vercel.app/))
 * **[➕ Fluxo de Criação de Anúncio e Propor Troca]** ([Link para o Vercel de Criar Anúncio](https://componente-react-marketplace.vercel.app/))
+* **[🔔 Módulo de Notificações]** ([Link para o Vercel das Notificações](https://marketplace-notificacoes.vercel.app/))
 * **[👤 Módulo de Perfil do Vendedor]** ([Link para o Vercel do Perfil](https://perfil-do-vendedor.vercel.app/))
 * **[👤 Módulo de Perfil do Usuário]** ([Link para o Vercel do Perfil do Usuário](https://configurar-perfil-e-anuncios.vercel.app/))
-* **[💵 Módulo de Compra]** ([Link para o Vercel do Perfil](https://checkout-e-chat.vercel.app/))
 
 ## 🛠️ Tecnologias Utilizadas
 * **Gerador de Interface:** v0 (Vercel)
